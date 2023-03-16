@@ -1,0 +1,1 @@
+to create semantic identifiers, first run create_embedings.py, then run kmeans.py.
